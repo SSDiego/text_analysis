@@ -1,4 +1,4 @@
-setwd("D:/projectLN/dea")
+setwd("path")
 
 # Escolher as bibliotecas
 library(dplyr)
