@@ -22,10 +22,33 @@ As you will see, here we have some characteristics of the terms presented in the
 
 | Etata  | Ação |
 | ------------- | ------------- |
-| 1  | Frequência de Palavras  |
-| 2 | Utilize a informação para montar um arquivo com stop words  |
+| 1  | Eu pego as frequências de Palavras  |
+| 2 | Utilizo a informação para montar um arquivo com stop words  |
 
 ![](my_images/1.jpg)
+
+#### Step 2
+
+| Etata  | Ação |
+| ------------- | ------------- |
+| 3  | Ploto a distribuição das palavras  |
+| 4 | Analizo a presença de uma distribuição de Zipf  |
+
+
+#### Step 3
+
+| Etata  | Ação |
+| ------------- | ------------- |
+| 5  | Construo um ngrams de palavras   |
+| 6 | Verifico se algum padrão começa a aparecer  |
+
+#### Step 4
+
+| Etata  | Ação |
+| ------------- | ------------- |
+| 7  | Ploto um gráfico para enxergar a relação das palavras com base na sua frequência conjunta  |
+| 8 | Mais uma vez verifico a existência de grupos  |
+
 
 ## Pattern
 
