@@ -11,7 +11,7 @@ import os
 #from tabula import read_pdf # para extração de tabela
 
 #Definir diretório
-os.chdir(r"D:\projectLN\dea")
+os.chdir(r"path")
  
 
 #Criar lista de pdfs no diretório
