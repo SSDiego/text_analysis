@@ -79,6 +79,6 @@ Finally, let’s check what a dendrogram looks like for these words and how can 
 
 ![](my_images/6.png)
 
-Here are some of the clusters we found.
+Here are some of the clusters we have found. You have to keep in mind that when I was doing this project, my goal was to understand the data that I had no idea what they were about. Now it's different because I'm trying to both have more insight about a large set of files and also gain time and direction when facing this situation
 
 ![](my_images/7.jpg)![](my_images/8.jpg)![](my_images/9.jpg)
