@@ -60,8 +60,25 @@ Let’s try to make sense of what we have found. This document talks about OPEX.
 
 Finally, let’s check how a dendrogram looks like for these words and how can we group these terms in clusters. For this step I’m using the same script I used back them, heavily based on Rémi Bacha's tutorial on SEO analyzes.   
 
+#### Step 1
+
+| Etata  | Ação |
+| ------------- | ------------- |
+| 1  | Defino o intervalo de palavras que quero analisar, levando em consideração a distribuição de Zipf  |
+| 2 | Escolho onde eu cortaria essa "árvore"  |
+
 ![](my_images/5.png)
 
+
+#### Step 2
+
+| Etata  | Ação |
+| ------------- | ------------- |
+| 1  | Utilizo todas as palavras e diminuo a distância entre os clusters  |
+| 2 | Determino a quantidade de clusters que "melhor" se adequada ao modelo  |
+
 ![](my_images/6.png)
+
+Here are some of the clusters we found.
 
 ![](my_images/7.jpg)![](my_images/8.jpg)![](my_images/9.jpg)
