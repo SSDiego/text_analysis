@@ -34,6 +34,7 @@ As you will see, here we have some characteristics of the terms presented in the
 | 3  | Ploto a distribuição das palavras  |
 | 4 | Analizo a presença de uma distribuição de Zipf  |
 
+![](my_images/2.png)
 
 #### Step 3
 
@@ -42,6 +43,8 @@ As you will see, here we have some characteristics of the terms presented in the
 | 5  | Construo um ngrams de palavras   |
 | 6 | Verifico se algum padrão começa a aparecer  |
 
+![](my_images/3.jpg)
+
 #### Step 4
 
 | Etata  | Ação |
@@ -49,6 +52,7 @@ As you will see, here we have some characteristics of the terms presented in the
 | 7  | Ploto um gráfico para enxergar a relação das palavras com base na sua frequência conjunta  |
 | 8 | Mais uma vez verifico a existência de grupos  |
 
+![](my_images/4.png)
 
 ## Pattern
 
