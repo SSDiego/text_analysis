@@ -18,6 +18,8 @@ Before we dive into the project, a while back I mostly used the data provided to
 
 As you will see, here we have some characteristics of the terms presented in the documents and also some group formation where we start to see some companies associated to each other or belonging to the same region or state. Which might be helpful for how this project could be developed in the future, looking more towards a topic modeling approach. For that step, though, since it would no longer be part of my first internship, it will be posted elsewhere. 
 
+
+
 ## Pattern
 
 Finally, let’s check how a dendrogram looks like for these words and how can we group these terms in clusters. For this step I’m using the same script I used back them, heavily based on Rémi Bacha's tutorial on SEO analyzes.   
