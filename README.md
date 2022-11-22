@@ -59,3 +59,9 @@ Let’s try to make sense of what we have found. This document talks about OPEX.
 ## Pattern
 
 Finally, let’s check how a dendrogram looks like for these words and how can we group these terms in clusters. For this step I’m using the same script I used back them, heavily based on Rémi Bacha's tutorial on SEO analyzes.   
+
+![](my_images/5.png)
+
+![](my_images/6.png)
+
+![](my_images/7.jpg)![](my_images/8.jpg)![](my_images/9.jpg)
