@@ -54,6 +54,8 @@ As you will see, here we have some characteristics of the terms presented in the
 
 ![](my_images/4.png)
 
+Let’s try to make sense of what we have found. This document talks about OPEX. We can also see some other interesting topics like “Índice Salarial”, PNT e “técnica” which make me think about “Perdas Não Técnicas”, there some points about “Ações Trabalhistas” and, of course, the main model which is a DEA. Finally, we can also see come companies associated to a region or to each other.  
+
 ## Pattern
 
 Finally, let’s check how a dendrogram looks like for these words and how can we group these terms in clusters. For this step I’m using the same script I used back them, heavily based on Rémi Bacha's tutorial on SEO analyzes.   
