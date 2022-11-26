@@ -21,7 +21,7 @@ As you will see, here we have some characteristics of the terms presented in the
 
 #### Step 1
 
-| Etata  | Ação |
+| Etapa  | Ação |
 | ------------- | ------------- |
 | 1  | Eu pego as frequências de Palavras  |
 | 2 | Utilizo a informação para montar um arquivo com stop words  |
@@ -30,7 +30,7 @@ As you will see, here we have some characteristics of the terms presented in the
 
 #### Step 2
 
-| Etata  | Ação |
+| Etapa  | Ação |
 | ------------- | ------------- |
 | 3  | Ploto a distribuição das palavras  |
 | 4 | Analizo a presença de uma distribuição de Zipf  |
@@ -39,7 +39,7 @@ As you will see, here we have some characteristics of the terms presented in the
 
 #### Step 3
 
-| Etata  | Ação |
+| Etapa  | Ação |
 | ------------- | ------------- |
 | 5  | Construo um ngrams de palavras   |
 | 6 | Verifico se algum padrão começa a aparecer  |
@@ -48,7 +48,7 @@ As you will see, here we have some characteristics of the terms presented in the
 
 #### Step 4
 
-| Etata  | Ação |
+| Etapa  | Ação |
 | ------------- | ------------- |
 | 7  | Ploto um gráfico para enxergar a relação das palavras com base na sua frequência conjunta  |
 | 8 | Mais uma vez verifico a existência de grupos  |
@@ -63,7 +63,7 @@ Finally, let’s check what a dendrogram looks like for these words and how can 
 
 #### Step 1
 
-| Etata  | Ação |
+| Etapa  | Ação |
 | ------------- | ------------- |
 | 1  | Defino o intervalo de palavras que quero analisar, levando em consideração a distribuição de Zipf  |
 | 2 | Escolho onde eu cortaria essa "árvore"  |
@@ -73,7 +73,7 @@ Finally, let’s check what a dendrogram looks like for these words and how can 
 
 #### Step 2
 
-| Etata  | Ação |
+| Etapa  | Ação |
 | ------------- | ------------- |
 | 1  | Utilizo todas as palavras e diminuo a distância entre os clusters  |
 | 2 | Determino a quantidade de clusters que "melhor" se adequada ao modelo  |
